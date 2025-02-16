@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "C:/Program Files/LLVM/bin/clang-cl.exe",
+            "configurationProvider": "cl.eide",
+            "intelliSenseMode": "windows-clang-arm",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "ARM_32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "cl.exe"
+        }
+    ],
+    "version": 4
+}

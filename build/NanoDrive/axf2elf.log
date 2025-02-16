@@ -1,0 +1,4 @@
+arm-none-eabi-objcopy --update-section ER_IROM1="C:\Users\YANGLLFF\AppData\Local\Temp\\NanoDrive_mXZ613lW.bin" "d:\MCU\STM\Project\NanoDrive\Firmware_keil\build\NanoDrive\NanoDrive.axf" "d:\MCU\STM\Project\NanoDrive\Firmware_keil\build\NanoDrive\NanoDrive.elf"
+
+arm-none-eabi-objcopy: d:\MCU\STM\Project\NanoDrive\Firmware_keil\build\NanoDrive\NanoDrive.elf: warning: allocated section `RW_IRAM1' not in segment
+

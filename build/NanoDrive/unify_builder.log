@@ -1,0 +1,2083 @@
+[2025-02-15 16:45:47]	[info] incremental build: 49 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\adc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\dma.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\gpio.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\spi.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_msp.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_timebase_tim.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_it.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\system_stm32g4xx.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\tim.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\usart.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_cortex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ramfunc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_gpio.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_ll_adc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\croutine.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\list.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\queue.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\tasks.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\timers.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': object (.o) file not exist
+
+[2025-02-15 16:45:50]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1974 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 16:46:52]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 16:46:53]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1974 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 16:47:06]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+
+[2025-02-15 16:47:06]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0xe74 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 16:47:44]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-15 16:47:45]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0xe74 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:02:28]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 17:02:29]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:02:54]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 17:02:55]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:03:35]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:03:43]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:04:10]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:04:21]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(STACK).
+Error: L6406E: No space in execution regions with .ANY selector matching startup_stm32g431xx.o(HEAP).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching usart.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching spi.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching libspace.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal_timebase_tim.o(.bss).
+Error: L6406E: No space in execution regions with .ANY selector matching tasks.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching heap_4.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching app_freertos.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching stm32g4xx_hal.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching port.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching adc.o(.data).
+Error: L6406E: No space in execution regions with .ANY selector matching system_stm32g4xx.o(.data).
+Error: L6407E: Sections of aggregate size 0x1274 bytes could not fit into .ANY selector(s).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 17 error messages.
+
+
+[2025-02-15 17:05:56]	[done]
+	build successfully !
+
+[2025-02-15 17:06:25]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 17:06:26]	[done]
+	build successfully !
+
+[2025-02-15 17:23:10]	[info] incremental build: 6 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_it.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\tim.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 17:23:11]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -DUSE_HAL_DRIVER -DSTM32G431xx -DFPU_FPV4 --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 2: Error:  #5: cannot open source input file "interface_uart.h": No such file or directory
+  #include "interface_uart.h"
+                             ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-15 17:23:45]	[info] incremental build: 50 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_msp.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_timebase_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_it.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\system_stm32g4xx.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\usart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_cortex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ramfunc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_ll_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\croutine.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\list.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\queue.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\tasks.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\timers.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': compiler options has been changed.
+
+[2025-02-15 17:23:48]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx -DFPU_FPV4 --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 12: Error:  #20: identifier "counting_down_" is undefined
+      bool timer_update_missed = (counting_down_ == counting_down);
+                                  ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-15 17:24:18]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 17:24:19]	[done]
+	build successfully !
+
+[2025-02-15 21:08:56]	[info] incremental build: 51 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\adc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_msp.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_hal_timebase_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_it.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\system_stm32g4xx.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\tim.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\usart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_cortex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ramfunc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_ll_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\croutine.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\list.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\queue.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\tasks.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Middlewares\Third_Party\FreeRTOS\Source\timers.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': compiler options has been changed.
+
+[2025-02-15 21:08:59]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\open_loop_controller.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\open_loop_controller.d .\MotorControl\open_loop_controller.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 35: Error:  #165: too few arguments in function call
+          FOC_current();
+                      ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+".\MotorControl\open_loop_controller.h", line 17: Error:  #20: identifier "uint32_t" is undefined
+      uint32_t timestamp_;
+      ^
+".\MotorControl\open_loop_controller.c", line 21: Error:  #136: struct "<unnamed>"  has no field "open_loop_controller"
+      open_loop_controller.Idq_setpoint_[0] = clamp(open_loop_controller.target_current_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 21: Error:  #136: struct "<unnamed>"  has no field "open_loop_controller"
+      open_loop_controller.Idq_setpoint_[0] = clamp(open_loop_controller.target_current_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 21: Error:  #136: struct "<unnamed>"  has no field "prev_Id"
+      open_loop_controller.Idq_setpoint_[0] = clamp(open_loop_controller.target_current_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 21: Error:  #136: struct "<unnamed>"  has no field "prev_Id"
+      open_loop_controller.Idq_setpoint_[0] = clamp(open_loop_controller.target_current_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 24: Error:  #136: struct "<unnamed>"  has no field "prev_Vd"
+      open_loop_controller.Vdq_setpoint_[0] = clamp(open_loop_controller.target_voltage_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 24: Error:  #136: struct "<unnamed>"  has no field "prev_Vd"
+      open_loop_controller.Vdq_setpoint_[0] = clamp(open_loop_controller.target_voltage_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 24: Error:  #136: struct "<unnamed>"  has no field "prev_Vd"
+      open_loop_controller.Vdq_setpoint_[0] = clamp(open_loop_controller.target_voltage_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 24: Error:  #136: struct "<unnamed>"  has no field "prev_Vd"
+      open_loop_controller.Vdq_setpoint_[0] = clamp(open_loop_controller.target_voltage_,
+                                              ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_vel = clamp(open_loop_controller.target_vel_,
+                           ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_vel = clamp(open_loop_controller.target_vel_,
+                                       ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_vel = clamp(open_loop_controller.target_vel_,
+                                       ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_vel = clamp(open_loop_controller.target_vel_,
+                                       ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_vel = clamp(open_loop_controller.target_vel_,
+                                       ^
+".\MotorControl\open_loop_controller.c", line 34: Error:  #136: struct "<unnamed>"  has no field "phase"
+      open_loop_controller.phase_          = wrap_pm_pi(open_loop_controller.phase + open_loop_controller.phase_vel * dt);
+                                                                             ^
+".\MotorControl\open_loop_controller.c", line 34: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller.phase_          = wrap_pm_pi(open_loop_controller.phase + open_loop_controller.phase_vel * dt);
+                                                                                                          ^
+".\MotorControl\open_loop_controller.c", line 11: Warning:  #177-D: variable "pre_Id"  was declared but never referenced
+      float pre_Id = open_loop_controller.Idq_setpoint_[0];
+            ^
+".\MotorControl\open_loop_controller.c", line 12: Warning:  #177-D: variable "pre_Iq"  was declared but never referenced
+      float pre_Iq = open_loop_controller.Idq_setpoint_[1];
+            ^
+".\MotorControl\open_loop_controller.c", line 13: Warning:  #177-D: variable "pre_Vd"  was declared but never referenced
+      float pre_Vd = open_loop_controller.Vdq_setpoint_[0];
+            ^
+".\MotorControl\open_loop_controller.c", line 14: Warning:  #177-D: variable "pre_Vq"  was declared but never referenced
+      float pre_Vq = open_loop_controller.Vdq_setpoint_[1];
+            ^
+".\MotorControl\open_loop_controller.c", line 16: Warning:  #177-D: variable "phase"  was declared but never referenced
+      float phase     = open_loop_controller.phase_;
+            ^
+.\MotorControl\open_loop_controller.c: 5 warnings, 16 errors
+
+[2025-02-15 21:10:49]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+
+[2025-02-15 21:10:50]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 35: Error:  #165: too few arguments in function call
+          FOC_current();
+                      ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-15 21:20:59]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+
+[2025-02-15 21:20:59]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\open_loop_controller.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\open_loop_controller.d .\MotorControl\open_loop_controller.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\open_loop_controller.c", line 1: Error:  #5: cannot open source input file " open_loop_controller.h": No such file or directory
+  #include " open_loop_controller.h"
+                                    ^
+.\MotorControl\open_loop_controller.c: 0 warnings, 1 error
+
+[2025-02-15 21:21:31]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+
+[2025-02-15 21:21:32]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\open_loop_controller.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\open_loop_controller.d .\MotorControl\open_loop_controller.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\open_loop_controller.h", line 17: Error:  #20: identifier "uint32_t" is undefined
+      uint32_t timestamp_;
+      ^
+".\MotorControl\open_loop_controller.c", line 28: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller->phase_vel = clamp(open_loop_controller->target_vel_,
+                            ^
+".\MotorControl\open_loop_controller.c", line 34: Error:  #136: struct "<unnamed>"  has no field "phase"
+      open_loop_controller->phase_          = wrap_pm_pi(open_loop_controller->phase + open_loop_controller->phase_vel * dt);
+                                                                               ^
+".\MotorControl\open_loop_controller.c", line 34: Error:  #136: struct "<unnamed>"  has no field "phase_vel"
+      open_loop_controller->phase_          = wrap_pm_pi(open_loop_controller->phase + open_loop_controller->phase_vel * dt);
+                                                                                                             ^
+".\MotorControl\open_loop_controller.c", line 16: Warning:  #177-D: variable "phase"  was declared but never referenced
+      float phase     = open_loop_controller->phase_;
+            ^
+.\MotorControl\open_loop_controller.c: 1 warning, 4 errors
+
+[2025-02-15 21:23:01]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+
+[2025-02-15 21:23:01]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\open_loop_controller.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\open_loop_controller.d .\MotorControl\open_loop_controller.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\open_loop_controller.h", line 17: Error:  #20: identifier "uint32_t" is undefined
+      uint32_t timestamp_;
+      ^
+.\MotorControl\open_loop_controller.c: 0 warnings, 1 error
+
+[2025-02-15 21:23:28]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+
+[2025-02-15 21:23:29]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol open_loop_controller multiply defined (by open_loop_controller.o and drive_main.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2025-02-15 21:24:00]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': source file has been changed.
+
+[2025-02-15 21:24:00]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol enqueue_modulation_timings (referred from foc.o).
+Error: L6218E: Undefined symbol enqueue_voltage_timings (referred from foc.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 2 error messages.
+
+
+[2025-02-15 21:24:57]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': object (.o) file not exist
+
+[2025-02-15 21:24:58]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\motor.c", line 17: Error:  #20: identifier "TIM_1_8_PERIOD_CLOCKS" is undefined
+      next_timings_[0]    = (uint16_t)(tA * (float)TIM_1_8_PERIOD_CLOCKS);
+                                                   ^
+".\MotorControl\motor.c", line 26: Error:  #20: identifier "vbus_voltage" is undefined
+      float vfactor   = 1.0f / ((2.0f / 3.0f) * vbus_voltage);
+                                                ^
+.\MotorControl\motor.c: 0 warnings, 2 errors
+
+[2025-02-15 21:26:05]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': object (.o) file not exist
+
+[2025-02-15 21:26:05]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\foc.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\foc.d .\MotorControl\foc.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\foc.c", line 63: Error:  #20: identifier "vbus_voltage" is undefined
+      float mod_to_V = (2.0f / 3.0f) * vbus_voltage;
+                                       ^
+.\MotorControl\foc.c: 0 warnings, 1 error
+
+[2025-02-15 21:26:39]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': object (.o) file not exist
+
+[2025-02-15 21:26:40]	[done]
+	build successfully !
+
+[2025-02-15 21:32:05]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drv8323.c': object (.o) file not exist
+
+[2025-02-15 21:32:05]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 21: Error:  #20: identifier "hadc1" is undefined
+      HAL_ADCEx_Calibration_Start(&hadc1, ADC_SINGLE_ENDED);
+                                   ^
+".\MotorControl\drive_main.c", line 22: Error:  #20: identifier "hadc2" is undefined
+      HAL_ADCEx_Calibration_Start(&hadc2, ADC_SINGLE_ENDED);
+                                   ^
+".\MotorControl\drive_main.c", line 24: Error:  #20: identifier "adc_buffer" is undefined
+      HAL_ADC_Start_DMA(&hadc1, &adc_buffer[0], 1);
+                                 ^
+".\MotorControl\drive_main.c", line 31: Error:  #20: identifier "htim1" is undefined
+      HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
+                         ^
+.\MotorControl\drive_main.c: 0 warnings, 4 errors
+
+[2025-02-15 21:33:54]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drv8323.c': object (.o) file not exist
+
+[2025-02-15 21:33:54]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 27: Error:  #20: identifier "adc_buffer" is undefined
+      HAL_ADC_Start_DMA(&hadc1, &adc_buffer[0], 1);
+                                 ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-15 21:35:38]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drv8323.c': object (.o) file not exist
+
+[2025-02-15 21:35:38]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 29: Error:  #167: argument of type "uint16_t *" is incompatible with parameter of type "uint32_t *"
+      HAL_ADC_Start_DMA(&hadc1, &adc_voltage_temp[0], 1);
+                                ^
+".\MotorControl\drive_main.c", line 30: Error:  #167: argument of type "uint16_t *" is incompatible with parameter of type "uint32_t *"
+      HAL_ADC_Start_DMA(&hadc2, &adc_voltage_temp[1], 1);
+                                ^
+.\MotorControl\drive_main.c: 0 warnings, 2 errors
+
+[2025-02-15 21:35:50]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drv8323.c': object (.o) file not exist
+
+[2025-02-15 21:35:51]	[done]
+	build successfully !
+
+[2025-02-15 21:43:28]	[info] incremental build: 5 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+
+[2025-02-15 21:43:30]	[done]
+	build successfully !
+
+[2025-02-15 21:51:38]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+
+[2025-02-15 21:51:38]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\Board\Core\Src\app_freertos.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\Board\Core\Src\app_freertos.d .\Board\Core\Src\app_freertos.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Board\Core\Src\app_freertos.c", line 204: Error:  #154: expression must have struct or union type
+          usart_printf("CCR:%d, %d, %d\n", TIM1.CCR1, TIM1.CCR2, TIM1.CCR3);
+                                           ^
+".\Board\Core\Src\app_freertos.c", line 204: Error:  #154: expression must have struct or union type
+          usart_printf("CCR:%d, %d, %d\n", TIM1.CCR1, TIM1.CCR2, TIM1.CCR3);
+                                                      ^
+".\Board\Core\Src\app_freertos.c", line 204: Error:  #154: expression must have struct or union type
+          usart_printf("CCR:%d, %d, %d\n", TIM1.CCR1, TIM1.CCR2, TIM1.CCR3);
+                                                                 ^
+.\Board\Core\Src\app_freertos.c: 0 warnings, 3 errors
+
+[2025-02-15 21:51:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+
+[2025-02-15 21:52:00]	[done]
+	build successfully !
+
+[2025-02-15 21:54:18]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 21:54:19]	[done]
+	build successfully !
+
+[2025-02-15 21:55:57]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 21:55:58]	[done]
+	build successfully !
+
+[2025-02-15 21:56:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+
+[2025-02-15 21:57:00]	[done]
+	build successfully !
+
+[2025-02-15 21:58:44]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 21:58:44]	[done]
+	build successfully !
+
+[2025-02-15 22:00:46]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-15 22:00:47]	[done]
+	build successfully !
+
+[2025-02-15 22:02:18]	[info] incremental build: 6 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+
+[2025-02-15 22:02:21]	[done]
+	build successfully !
+
+[2025-02-15 22:06:56]	[info] incremental build: 7 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+
+[2025-02-15 22:06:59]	[done]
+	build successfully !
+
+[2025-02-15 22:12:04]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-15 22:12:05]	[done]
+	build successfully !
+
+[2025-02-15 22:17:08]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-15 22:17:08]	[done]
+	build successfully !
+
+[2025-02-15 22:22:40]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 22:22:41]	[done]
+	build successfully !
+
+[2025-02-15 23:05:22]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-15 23:05:23]	[done]
+	build successfully !
+
+[2025-02-15 23:07:41]	[info] incremental build: 6 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+
+[2025-02-15 23:07:42]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 85: Error: At end of source:  #67: expected a "}"
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-15 23:08:05]	[info] incremental build: 5 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+
+[2025-02-15 23:08:07]	[done]
+	build successfully !
+
+[2025-02-15 23:09:19]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 23:09:20]	[done]
+	build successfully !
+
+[2025-02-15 23:17:19]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-15 23:17:20]	[done]
+	build successfully !
+
+[2025-02-15 23:36:07]	[info] incremental build: 5 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': source file has been changed.
+
+[2025-02-15 23:36:08]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\Communication\interface_uart.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\Communication\interface_uart.d .\Communication\interface_uart.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Communication\interface_uart.c", line 28: Error:  #20: identifier "hdma_usart3_rx" is undefined
+      __HAL_DMA_DISABLE_IT(&hdma_usart3_rx, DMA_IT_HT);
+      ^
+".\Communication\interface_uart.c", line 35: Error:  #20: identifier "uart_set" is undefined
+              uart_set.vel = strtof((char *)rx_buffer + 1, NULL);
+              ^
+".\Communication\interface_uart.c", line 48: Error:  #20: identifier "RX_BUFFER_LENGTH" is undefined
+          if (Size <= RX_BUFFER_LENGTH) {
+                      ^
+".\Communication\interface_uart.c", line 51: Error:  #20: identifier "RX_BUFFER_LENGTH" is undefined
+          HAL_UARTEx_ReceiveToIdle_DMA(huart, rx_buffer, RX_BUFFER_LENGTH);
+                                                         ^
+".\Communication\interface_uart.c", line 52: Error:  #20: identifier "hdma_usart3_rx" is undefined
+          __HAL_DMA_DISABLE_IT(&hdma_usart3_rx, DMA_IT_HT);
+          ^
+.\Communication\interface_uart.c: 0 warnings, 5 errors
+
+[2025-02-15 23:37:51]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': source file has been changed.
+
+[2025-02-15 23:37:51]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\Communication\interface_uart.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\Communication\interface_uart.d .\Communication\interface_uart.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Communication\interface_uart.c", line 39: Warning:  #1182-D: a declaration cannot have a label
+              float vel = strtof((char *)rx_buffer + 1, NULL);
+              ^
+".\Communication\interface_uart.c", line 42: Warning:  #1182-D: a declaration cannot have a label
+              float pos = strtof((char *)rx_buffer + 1, NULL);
+              ^
+".\Communication\interface_uart.c", line 37: Warning:  #546-D: transfer of control bypasses initialization of:
+            variable "vel"  (declared at line 39)
+            variable "pos"  (declared at line 42)
+      switch (rx_buffer[0]) {
+      ^
+".\Communication\interface_uart.c", line 52: Error:  #20: identifier "RX_BUFFER_LENGTH" is undefined
+          if (Size <= RX_BUFFER_LENGTH) {
+                      ^
+".\Communication\interface_uart.c", line 55: Error:  #20: identifier "RX_BUFFER_LENGTH" is undefined
+          HAL_UARTEx_ReceiveToIdle_DMA(huart, rx_buffer, RX_BUFFER_LENGTH);
+                                                         ^
+.\Communication\interface_uart.c: 3 warnings, 2 errors
+
+[2025-02-15 23:38:01]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': source file has been changed.
+
+[2025-02-15 23:38:01]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\Communication\interface_uart.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\Communication\interface_uart.d .\Communication\interface_uart.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Communication\interface_uart.c", line 39: Warning:  #1182-D: a declaration cannot have a label
+              float vel = strtof((char *)rx_buffer + 1, NULL);
+              ^
+".\Communication\interface_uart.c", line 42: Warning:  #1182-D: a declaration cannot have a label
+              float pos = strtof((char *)rx_buffer + 1, NULL);
+              ^
+".\Communication\interface_uart.c", line 37: Warning:  #546-D: transfer of control bypasses initialization of:
+            variable "vel"  (declared at line 39)
+            variable "pos"  (declared at line 42)
+      switch (rx_buffer[0]) {
+      ^
+".\Communication\interface_uart.c", line 55: Error:  #20: identifier "RX_BUFFER_LENGTH" is undefined
+          HAL_UARTEx_ReceiveToIdle_DMA(huart, rx_buffer, RX_BUFFER_LENGTH);
+                                                         ^
+.\Communication\interface_uart.c: 3 warnings, 1 error
+
+[2025-02-15 23:38:13]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': source file has been changed.
+
+[2025-02-15 23:38:15]	[done]
+	build successfully !
+
+[2025-02-15 23:38:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+
+[2025-02-15 23:38:59]	[done]
+	build successfully !
+
+[2025-02-15 23:40:00]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 23:40:01]	[done]
+	build successfully !
+
+[2025-02-15 23:47:53]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+
+[2025-02-15 23:47:53]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\Communication\interface_uart.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\Communication\interface_uart.d .\Communication\interface_uart.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Communication\interface_uart.c", line 18: Error:  #20: identifier "OpenLoopController_t" is undefined
+  extern OpenLoopController_t open_loop_controller;
+         ^
+.\Communication\interface_uart.c: 0 warnings, 1 error
+
+[2025-02-15 23:48:24]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+
+[2025-02-15 23:48:25]	[done]
+	build successfully !
+
+[2025-02-15 23:55:30]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-15 23:55:31]	[done]
+	build successfully !
+
+[2025-02-15 23:57:23]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-15 23:57:24]	[done]
+	build successfully !
+
+[2025-02-16 09:19:28]	[info] incremental build: 10 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\as5047p.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:19:29]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\encoder.c", line 82: Error:  #165: too few arguments in function call
+      if (current_meas_period * pll_kp_ >= 1.0f) { encoder_set_error(); }
+                                                                     ^
+".\MotorControl\encoder.c", line 141: Warning:  #111-D: statement is unreachable
+          } break;
+            ^
+".\MotorControl\encoder.c", line 210: Error:  #20: identifier "motor_pole_pairs" is undefined
+      float elec_rad_per_enc = motor_pole_pairs * 2 * M_PI * (1.0f / (float)(config_.cpr));
+                               ^
+.\MotorControl\encoder.c: 1 warning, 2 errors
+".\MotorControl\motor.c", line 84: Error:  #20: identifier "config_" is undefined
+      bool dc_calib_valid = (dc_calib_running_since_ >= config_.dc_calib_tau * 7.5f) &&
+                                                        ^
+".\MotorControl\motor.c", line 85: Warning:  #223-D: function "abs" declared implicitly
+                            (abs(DC_calib_.phA) < max_dc_calib_) && (abs(DC_calib_.phB) < max_dc_calib_) &&
+                             ^
+".\MotorControl\motor.c", line 85: Error:  #20: identifier "max_dc_calib_" is undefined
+                            (abs(DC_calib_.phA) < max_dc_calib_) && (abs(DC_calib_.phB) < max_dc_calib_) &&
+                                                  ^
+".\MotorControl\motor.c", line 88: Error:  #20: identifier "armed_state_" is undefined
+      if (armed_state_ == 1 || armed_state_ == 2) {
+          ^
+".\MotorControl\motor.c", line 89: Error:  #29: expected an expression
+          current_meas_ = {0.0f, 0.0f, 0.0f};
+                          ^
+".\MotorControl\motor.c", line 91: Error:  #154: expression must have struct or union type
+      } else if (current.has_value() && dc_calib_valid) {
+                 ^
+".\MotorControl\motor.c", line 92: Error:  #29: expected an expression
+          current_meas_ = {current->phA - DC_calib_.phA, current->phB - DC_calib_.phB, current->phC - DC_calib_.phC};
+                          ^
+".\MotorControl\motor.c", line 94: Error:  #20: identifier "std" is undefined
+          current_meas_ = std::nullopt;
+                          ^
+".\MotorControl\motor.c", line 94: Error:  #65: expected a ";"
+          current_meas_ = std::nullopt;
+                             ^
+".\MotorControl\motor.c", line 101: Error:  #20: identifier "odrv" is undefined
+      odrv.do_fast_checks();
+      ^
+".\MotorControl\motor.c", line 103: Error:  #136: struct "<unnamed>"  has no field "has_value"
+      if (current_meas_.has_value()) {
+                        ^
+".\MotorControl\motor.c", line 107: Error:  #20: identifier "effective_current_lim_" is undefined
+          float Itrip    = effective_current_lim_ + config_.current_lim_margin;
+                           ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 112: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          if (Inorm_sq > SQ(Itrip)) { disarm_with_error(ERROR_CURRENT_LIMIT_VIOLATION); }
+                                      ^
+".\MotorControl\motor.c", line 112: Error:  #20: identifier "ERROR_CURRENT_LIMIT_VIOLATION" is undefined
+          if (Inorm_sq > SQ(Itrip)) { disarm_with_error(ERROR_CURRENT_LIMIT_VIOLATION); }
+                                                        ^
+".\MotorControl\motor.c", line 113: Error:  #20: identifier "is_armed_" is undefined
+      } else if (is_armed_) {
+                 ^
+".\MotorControl\motor.c", line 117: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          disarm_with_error(ERROR_UNKNOWN_CURRENT_MEASUREMENT);
+          ^
+".\MotorControl\motor.c", line 117: Error:  #20: identifier "ERROR_UNKNOWN_CURRENT_MEASUREMENT" is undefined
+          disarm_with_error(ERROR_UNKNOWN_CURRENT_MEASUREMENT);
+                            ^
+".\MotorControl\motor.c", line 120: Error:  #20: identifier "control_law_" is undefined
+      if (control_law_) {
+          ^
+".\MotorControl\motor.c", line 121: Error:  #20: identifier "Error" is undefined
+          Error err = control_law_->on_measurement(
+          ^
+".\MotorControl\motor.c", line 123: Error:  #136: struct "<unnamed>"  has no field "has_value"
+              current_meas_.has_value()
+                            ^
+".\MotorControl\motor.c", line 124: Error:  #20: identifier "std" is undefined
+                  ? std::make_optional(std::array<float, 3>{current_meas_->phA, current_meas_->phB, current_meas_->phC})
+                    ^
+".\MotorControl\motor.c", line 124: Error:  #29: expected an expression
+                  ? std::make_optional(std::array<float, 3>{current_meas_->phA, current_meas_->phB, current_meas_->phC})
+                        ^
+".\MotorControl\motor.c", line 127: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          if (err != ERROR_NONE) { disarm_with_error(err); }
+                                   ^
+.\MotorControl\motor.c: 4 warnings, 25 errors
+
+[2025-02-16 09:25:25]	[info] incremental build: 9 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:25:26]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\encoder.c", line 143: Warning:  #111-D: statement is unreachable
+          } break;
+            ^
+".\MotorControl\encoder.c", line 217: Error:  #20: identifier "motor_pole_pairs" is undefined
+      phase_vel_ = (2 * M_PI) * vel_estimate_ * motor_pole_pairs * config_.direction;
+                                                ^
+.\MotorControl\encoder.c: 1 warning, 1 error
+".\MotorControl\motor.c", line 84: Error:  #20: identifier "config_" is undefined
+      bool dc_calib_valid = (dc_calib_running_since_ >= config_.dc_calib_tau * 7.5f) &&
+                                                        ^
+".\MotorControl\motor.c", line 85: Warning:  #223-D: function "abs" declared implicitly
+                            (abs(DC_calib_.phA) < max_dc_calib_) && (abs(DC_calib_.phB) < max_dc_calib_) &&
+                             ^
+".\MotorControl\motor.c", line 85: Error:  #20: identifier "max_dc_calib_" is undefined
+                            (abs(DC_calib_.phA) < max_dc_calib_) && (abs(DC_calib_.phB) < max_dc_calib_) &&
+                                                  ^
+".\MotorControl\motor.c", line 88: Error:  #20: identifier "armed_state_" is undefined
+      if (armed_state_ == 1 || armed_state_ == 2) {
+          ^
+".\MotorControl\motor.c", line 89: Error:  #29: expected an expression
+          current_meas_ = {0.0f, 0.0f, 0.0f};
+                          ^
+".\MotorControl\motor.c", line 91: Error:  #154: expression must have struct or union type
+      } else if (current.has_value() && dc_calib_valid) {
+                 ^
+".\MotorControl\motor.c", line 92: Error:  #29: expected an expression
+          current_meas_ = {current->phA - DC_calib_.phA, current->phB - DC_calib_.phB, current->phC - DC_calib_.phC};
+                          ^
+".\MotorControl\motor.c", line 94: Error:  #20: identifier "std" is undefined
+          current_meas_ = std::nullopt;
+                          ^
+".\MotorControl\motor.c", line 94: Error:  #65: expected a ";"
+          current_meas_ = std::nullopt;
+                             ^
+".\MotorControl\motor.c", line 101: Error:  #20: identifier "odrv" is undefined
+      odrv.do_fast_checks();
+      ^
+".\MotorControl\motor.c", line 103: Error:  #136: struct "<unnamed>"  has no field "has_value"
+      if (current_meas_.has_value()) {
+                        ^
+".\MotorControl\motor.c", line 107: Error:  #20: identifier "effective_current_lim_" is undefined
+          float Itrip    = effective_current_lim_ + config_.current_lim_margin;
+                           ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 108: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 112: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          if (Inorm_sq > SQ(Itrip)) { disarm_with_error(ERROR_CURRENT_LIMIT_VIOLATION); }
+                                      ^
+".\MotorControl\motor.c", line 112: Error:  #20: identifier "ERROR_CURRENT_LIMIT_VIOLATION" is undefined
+          if (Inorm_sq > SQ(Itrip)) { disarm_with_error(ERROR_CURRENT_LIMIT_VIOLATION); }
+                                                        ^
+".\MotorControl\motor.c", line 113: Error:  #20: identifier "is_armed_" is undefined
+      } else if (is_armed_) {
+                 ^
+".\MotorControl\motor.c", line 117: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          disarm_with_error(ERROR_UNKNOWN_CURRENT_MEASUREMENT);
+          ^
+".\MotorControl\motor.c", line 117: Error:  #20: identifier "ERROR_UNKNOWN_CURRENT_MEASUREMENT" is undefined
+          disarm_with_error(ERROR_UNKNOWN_CURRENT_MEASUREMENT);
+                            ^
+".\MotorControl\motor.c", line 120: Error:  #20: identifier "control_law_" is undefined
+      if (control_law_) {
+          ^
+".\MotorControl\motor.c", line 121: Error:  #20: identifier "Error" is undefined
+          Error err = control_law_->on_measurement(
+          ^
+".\MotorControl\motor.c", line 123: Error:  #136: struct "<unnamed>"  has no field "has_value"
+              current_meas_.has_value()
+                            ^
+".\MotorControl\motor.c", line 124: Error:  #20: identifier "std" is undefined
+                  ? std::make_optional(std::array<float, 3>{current_meas_->phA, current_meas_->phB, current_meas_->phC})
+                    ^
+".\MotorControl\motor.c", line 124: Error:  #29: expected an expression
+                  ? std::make_optional(std::array<float, 3>{current_meas_->phA, current_meas_->phB, current_meas_->phC})
+                        ^
+".\MotorControl\motor.c", line 127: Warning:  #223-D: function "disarm_with_error" declared implicitly
+          if (err != ERROR_NONE) { disarm_with_error(err); }
+                                   ^
+.\MotorControl\motor.c: 4 warnings, 25 errors
+
+[2025-02-16 09:29:36]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:29:37]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\encoder.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\encoder.d .\MotorControl\encoder.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\encoder.c", line 143: Warning:  #111-D: statement is unreachable
+          } break;
+            ^
+".\MotorControl\encoder.c", line 217: Error:  #20: identifier "motor_pole_pairs" is undefined
+      phase_vel_ = (2 * M_PI) * vel_estimate_ * motor_pole_pairs * config_.direction;
+                                                ^
+.\MotorControl\encoder.c: 1 warning, 1 error
+
+[2025-02-16 09:29:50]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:29:50]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\motor.c", line 18: Error:  #147: declaration is incompatible with "const float phase_current_rev_gain_"  (declared at line 8)
+  float phase_current_rev_gain_ = 0.0f; // Reverse gain for ADC to Amps (to be set by DRV8301_setup)
+        ^
+".\MotorControl\motor.c", line 18: Error:  #148: variable "phase_current_rev_gain_"  has already been initialized
+  float phase_current_rev_gain_ = 0.0f; // Reverse gain for ADC to Amps (to be set by DRV8301_setup)
+        ^
+".\MotorControl\motor.c", line 98: Warning:  #223-D: function "abs" declared implicitly
+                            (abs(DC_calib_.phA) < max_dc_calib_) && (abs(DC_calib_.phB) < max_dc_calib_) &&
+                             ^
+".\MotorControl\motor.c", line 116: Error:  #77-D: this declaration has no storage class or type specifier
+  odrv.do_fast_checks();
+  ^
+".\MotorControl\motor.c", line 116: Error:  #65: expected a ";"
+  odrv.do_fast_checks();
+      ^
+".\MotorControl\motor.c", line 118: Error:  #169: expected a declaration
+  if (current_meas_.has_value()) {
+  ^
+".\MotorControl\motor.c", line 144: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+.\MotorControl\motor.c: 2 warnings, 5 errors
+
+[2025-02-16 09:31:30]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:31:31]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\motor.c", line 115: Error:  #77-D: this declaration has no storage class or type specifier
+  odrv.do_fast_checks();
+  ^
+".\MotorControl\motor.c", line 115: Error:  #65: expected a ";"
+  odrv.do_fast_checks();
+      ^
+".\MotorControl\motor.c", line 117: Error:  #169: expected a declaration
+  if (current_meas_.has_value()) {
+  ^
+".\MotorControl\motor.c", line 143: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+.\MotorControl\motor.c: 1 warning, 3 errors
+
+[2025-02-16 09:38:47]	[info] incremental build: 9 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 09:38:48]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\motor.c", line 114: Error:  #20: identifier "config_" is undefined
+          float Itrip    = effective_current_lim_ + config_.current_lim_margin;
+                                                    ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+.\MotorControl\motor.c: 0 warnings, 7 errors
+
+[2025-02-16 09:39:28]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 09:39:28]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                          ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                   ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+".\MotorControl\motor.c", line 115: Error:  #44: expression must have pointer type
+          float Inorm_sq = 2.0f / 3.0f * (SQ(current_meas_->phA) + SQ(current_meas_->phB) + SQ(current_meas_->phC));
+                                                                                            ^
+.\MotorControl\motor.c: 0 warnings, 6 errors
+
+[2025-02-16 09:40:58]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 09:40:58]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol current_meas_ multiply defined (by motor.o and foc.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2025-02-16 09:43:10]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 09:43:10]	[done]
+	build successfully !
+
+[2025-02-16 10:00:47]	[info] incremental build: 9 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+
+[2025-02-16 10:00:48]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 86: Error:  #20: identifier "timestamp_" is undefined
+      timestamp_ += TIM_1_PERIOD_CLOCKS * (TIM_1_RCR + 1);
+      ^
+".\MotorControl\drive_main.c", line 99: Warning:  #223-D: function "encoder_update" declared implicitly
+          encoder_update();
+          ^
+.\MotorControl\drive_main.c: 1 warning, 1 error
+
+[2025-02-16 10:01:14]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+
+[2025-02-16 10:01:15]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 87: Error:  #20: identifier "timestamp_" is undefined
+      timestamp_ += TIM_1_PERIOD_CLOCKS * (TIM_1_RCR + 1);
+      ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+
+[2025-02-16 10:01:31]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\error.h' has been changed.
+
+[2025-02-16 10:01:32]	[done]
+	build successfully !
+
+[2025-02-16 10:03:47]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:03:48]	[done]
+	build successfully !
+
+[2025-02-16 10:04:11]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:04:12]	[done]
+	build successfully !
+
+[2025-02-16 10:04:23]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:04:24]	[done]
+	build successfully !
+
+[2025-02-16 10:09:00]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 10:09:01]	[done]
+	build successfully !
+
+[2025-02-16 10:09:11]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 10:09:12]	[done]
+	build successfully !
+
+[2025-02-16 10:09:23]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 10:09:24]	[done]
+	build successfully !
+
+[2025-02-16 10:12:14]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-16 10:12:15]	[done]
+	build successfully !
+
+[2025-02-16 10:17:15]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 10:17:17]	[done]
+	build successfully !
+
+[2025-02-16 10:29:12]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:29:13]	[done]
+	build successfully !
+
+[2025-02-16 10:30:17]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:30:18]	[done]
+	build successfully !
+
+[2025-02-16 10:33:39]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:33:40]	[done]
+	build successfully !
+
+[2025-02-16 10:38:21]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+
+[2025-02-16 10:38:22]	[done]
+	build successfully !
+
+[2025-02-16 10:39:18]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:39:18]	[done]
+	build successfully !
+
+[2025-02-16 10:45:13]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 10:45:14]	[done]
+	build successfully !
+
+[2025-02-16 10:52:17]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\adc.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\stm32g4xx_it.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\MDK-ARM\startup_stm32g431xx.s': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:52:18]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\drive_main.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\drive_main.d .\MotorControl\drive_main.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\drive_main.c", line 48: Error:  #169: expected a declaration
+  }
+  ^
+".\MotorControl\drive_main.c", line 88: Warning:  #12-D: parsing restarts here after previous syntax error
+      Iph_ABC_t current_;
+                        ^
+".\MotorControl\drive_main.c", line 90: Error:  #169: expected a declaration
+      if (!counting_down) {
+      ^
+".\MotorControl\drive_main.c", line 119: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+.\MotorControl\drive_main.c: 2 warnings, 2 errors
+
+[2025-02-16 10:52:37]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 10:52:37]	[done]
+	build successfully !
+
+[2025-02-16 11:00:37]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': source file has been changed.
+
+[2025-02-16 11:00:39]	[done]
+	build successfully !
+
+[2025-02-16 11:02:41]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': source file has been changed.
+
+[2025-02-16 11:02:43]	[done]
+	build successfully !
+
+[2025-02-16 11:07:20]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:07:21]	[done]
+	build successfully !
+
+[2025-02-16 11:07:38]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:07:39]	[done]
+	build successfully !
+
+[2025-02-16 11:15:16]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:15:17]	[done]
+	build successfully !
+
+[2025-02-16 11:15:26]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:15:27]	[done]
+	build successfully !
+
+[2025-02-16 11:16:14]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:16:15]	[done]
+	build successfully !
+
+[2025-02-16 11:17:03]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:17:04]	[done]
+	build successfully !
+
+[2025-02-16 11:18:08]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:18:09]	[done]
+	build successfully !
+
+[2025-02-16 11:25:13]	[info] incremental build: 10 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\board.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:25:14]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.d .\MotorControl\arm_cos_f32.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\arm_sin_f32.c", line 31: Error:  #5: cannot open source input file "arm_common_tables.h": No such file or directory
+  #include "arm_common_tables.h"
+                                ^
+.\MotorControl\arm_sin_f32.c: 0 warnings, 1 error
+".\MotorControl\arm_cos_f32.c", line 31: Error:  #5: cannot open source input file "arm_common_tables.h": No such file or directory
+  #include "arm_common_tables.h"
+                                ^
+.\MotorControl\arm_cos_f32.c: 0 warnings, 1 error
+
+[2025-02-16 11:27:44]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:27:44]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.d .\MotorControl\arm_cos_f32.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\arm_cos_f32.c", line 31: Error:  #5: cannot open source input file "arm_common_tables.h": No such file or directory
+  #include "arm_common_tables.h"
+                                ^
+.\MotorControl\arm_cos_f32.c: 0 warnings, 1 error
+
+[2025-02-16 11:27:53]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:27:53]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\arm_cos_f32.d .\MotorControl\arm_cos_f32.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\MotorControl\arm_cos_f32.c", line 107: Error:  #20: identifier "sinTable_f32" is undefined
+      a = sinTable_f32[index];
+          ^
+.\MotorControl\arm_cos_f32.c: 0 warnings, 1 error
+
+[2025-02-16 11:29:06]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:29:08]	[done]
+	build successfully !
+
+[2025-02-16 11:30:07]	[info] incremental build: 3 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-16 11:30:09]	[done]
+	build successfully !
+
+[2025-02-16 11:30:28]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': source file has been changed.
+
+[2025-02-16 11:30:29]	[done]
+	build successfully !
+
+[2025-02-16 11:34:32]	[info] incremental build: 10 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:34:32]	compilation failed at : "d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IBoard/Core/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc -IBoard/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -IBoard/Middlewares/Third_Party/FreeRTOS/Source/include -IBoard/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -IBoard/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -IBoard/Drivers/CMSIS/Device/ST/STM32G4xx/Include -IBoard/Drivers/CMSIS/Include -IBoard/Middlewares/ST/ARM/DSP/Inc -IMotorControl -I.cmsis/include -IBoard/MDK-ARM/RTE/_NanoDrive -ICommunication -DUSE_HAL_DRIVER -DSTM32G431xx --cpu Cortex-M4.fp --li --c99 -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\NanoDrive\.obj\MotorControl\motor.o --no_depend_system_headers --depend .\build\NanoDrive\.obj\MotorControl\motor.d .\MotorControl\motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\Board\Core\Src\app_freertos.c: 0 warnings, 1 error
+"MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\Communication\interface_uart.c: 0 warnings, 1 error
+"MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\MotorControl\arm_cos_f32.c: 0 warnings, 1 error
+"MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\MotorControl\arm_sin_f32.c: 0 warnings, 1 error
+".\MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\MotorControl\drive_main.c: 0 warnings, 1 error
+".\MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+".\MotorControl\encoder.c", line 143: Warning:  #111-D: statement is unreachable
+          } break;
+            ^
+.\MotorControl\encoder.c: 1 warning, 1 error
+".\MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\MotorControl\foc.c: 0 warnings, 1 error
+".\MotorControl\utils.h", line 24: Error:  #20: identifier "y" is undefined
+      float intval = nearbyintf(x / y);
+                                    ^
+.\MotorControl\motor.c: 0 warnings, 1 error
+
+[2025-02-16 11:34:49]	[info] incremental build: 10 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:34:50]	[done]
+	build successfully !
+
+[2025-02-16 11:37:25]	[info] incremental build: 10 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\encoder.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\foc.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.c': dependence 'd:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\utils.h' has been changed.
+
+[2025-02-16 11:37:26]	[done]
+	build successfully !
+
+[2025-02-16 11:42:31]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 11:42:31]	[done]
+	build successfully !
+
+[2025-02-16 11:47:37]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 11:47:38]	[done]
+	build successfully !
+
+[2025-02-16 11:55:54]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 11:55:54]	[done]
+	build successfully !
+
+[2025-02-16 11:57:27]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 11:57:28]	[done]
+	build successfully !
+
+[2025-02-16 11:58:06]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+
+[2025-02-16 11:58:06]	[done]
+	build successfully !
+
+[2025-02-16 11:59:32]	[info] incremental build: 2 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Board\Core\Src\app_freertos.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\motor.c': source file has been changed.
+
+[2025-02-16 11:59:33]	[done]
+	build successfully !
+
+[2025-02-16 12:16:31]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\Communication\interface_uart.c': source file has been changed.
+
+[2025-02-16 12:16:32]	[done]
+	build successfully !
+
+[2025-02-16 12:22:33]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 12:22:34]	[done]
+	build successfully !
+
+[2025-02-16 12:22:48]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 12:22:49]	[done]
+	build successfully !
+
+[2025-02-16 12:23:33]	[done]
+	build successfully !
+
+[2025-02-16 12:24:41]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\Firmware_keil\MotorControl\drive_main.c': source file has been changed.
+
+[2025-02-16 12:24:42]	[done]
+	build successfully !
+
