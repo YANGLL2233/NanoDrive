@@ -213,9 +213,11 @@ bool encoder_update(void)
     float ph               = elec_rad_per_enc * (interpolated_enc - config_.phase_offset_float);
 
     // is ready
-    phase_     = wrap_pm_pi(ph) * config_.direction;
-    phase_vel_ = (2 * M_PI) * vel_estimate_ * motor_config_.pole_pairs * config_.direction;
+    if (is_ready_) {
+        phase_ = wrap_pm_pi(ph) * config_.direction;
 
-    //  usart_printf("encoder:%f,%f,%f,%f,%d\n", pos_estimate_, vel_estimate_, phase_, phase_vel_, pos_abs_latched);
+        phase_vel_ = (2 * M_PI) * vel_estimate_ * motor_config_.pole_pairs * config_.direction;
+    }
+
     return true;
 }

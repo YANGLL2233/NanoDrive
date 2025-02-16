@@ -1,0 +1,10 @@
+>>> cc
+
+".\MotorControl\encoder.c", line 143: Warning:  #111-D: statement is unreachable
+          } break;
+            ^
+.\MotorControl\encoder.c: 1 warning, 0 errors
+
+>>> ld
+
+Program Size: Code=39156 RO-data=3352 RW-data=476 ZI-data=25212  

@@ -2,10 +2,7 @@
   "name": "NanoDrive",
   "type": "ARM",
   "dependenceList": [],
-  "srcDirs": [
-    "Communication",
-    "MotorControl"
-  ],
+  "srcDirs": [],
   "virtualFolder": {
     "name": "<virtual_root>",
     "files": [],
@@ -224,6 +221,54 @@
         "name": "::CMSIS",
         "files": [],
         "folders": []
+      },
+      {
+        "name": "MotorControl",
+        "files": [
+          {
+            "path": "MotorControl/arm_cos_f32.c"
+          },
+          {
+            "path": "MotorControl/arm_sin_f32.c"
+          },
+          {
+            "path": "MotorControl/as5047p.c"
+          },
+          {
+            "path": "MotorControl/drive_main.c"
+          },
+          {
+            "path": "MotorControl/drv8323.c"
+          },
+          {
+            "path": "MotorControl/encoder.c"
+          },
+          {
+            "path": "MotorControl/error.c"
+          },
+          {
+            "path": "MotorControl/foc.c"
+          },
+          {
+            "path": "MotorControl/motor.c"
+          },
+          {
+            "path": "MotorControl/open_loop_controller.c"
+          },
+          {
+            "path": "MotorControl/utils.c"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Communication",
+        "files": [
+          {
+            "path": "Communication/interface_uart.c"
+          }
+        ],
+        "folders": []
       }
     ]
   },
@@ -307,9 +352,10 @@
           "Board/Drivers/CMSIS/Device/ST/STM32G4xx/Include",
           "Board/Drivers/CMSIS/Include",
           "Board/Middlewares/ST/ARM/DSP/Inc",
-          "MotorControl",
           ".cmsis/include",
           "Board/MDK-ARM/RTE/_NanoDrive",
+          "MotorControl",
+          "Application",
           "Communication"
         ],
         "libList": [],

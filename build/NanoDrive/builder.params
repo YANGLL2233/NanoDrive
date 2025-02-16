@@ -22,9 +22,10 @@
         "Board/Drivers/CMSIS/Device/ST/STM32G4xx/Include",
         "Board/Drivers/CMSIS/Include",
         "Board/Middlewares/ST/ARM/DSP/Inc",
-        "MotorControl",
         ".cmsis/include",
         "Board/MDK-ARM/RTE/_NanoDrive",
+        "MotorControl",
+        "Application",
         "Communication"
     ],
     "libDirs": [],
@@ -78,7 +79,19 @@
         "Board/Middlewares/Third_Party/FreeRTOS/Source/queue.c",
         "Board/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c",
         "Board/Middlewares/Third_Party/FreeRTOS/Source/tasks.c",
-        "Board/Middlewares/Third_Party/FreeRTOS/Source/timers.c"
+        "Board/Middlewares/Third_Party/FreeRTOS/Source/timers.c",
+        "Communication/interface_uart.c",
+        "MotorControl/arm_cos_f32.c",
+        "MotorControl/arm_sin_f32.c",
+        "MotorControl/as5047p.c",
+        "MotorControl/drive_main.c",
+        "MotorControl/drv8323.c",
+        "MotorControl/encoder.c",
+        "MotorControl/error.c",
+        "MotorControl/foc.c",
+        "MotorControl/motor.c",
+        "MotorControl/open_loop_controller.c",
+        "MotorControl/utils.c"
     ],
     "sourceParams": {},
     "options": {

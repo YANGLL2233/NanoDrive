@@ -2081,3 +2081,95 @@ These source files will be recompiled
 [2025-02-16 12:24:42]	[done]
 	build successfully !
 
+[2025-02-16 17:49:13]	Not found any source files !, please add some source files !
+   at unify_builder.Program.Main(String[] args_)
+
+[2025-02-16 17:54:00]	[info] incremental build: 12 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\Communication\interface_uart.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\arm_cos_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\arm_sin_f32.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\as5047p.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\drive_main.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\drv8323.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\encoder.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\error.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\foc.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\motor.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\open_loop_controller.c': object (.o) file not exist
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Firmware_keil\MotorControl\utils.c': object (.o) file not exist
+
+[2025-02-16 17:54:01]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+"d:/MCU/STM/Project/NanoDrive/NanoDrive/build/NanoDrive/NanoDrive.sct", line 7 (column 8): Error: L6236E: No section matches selector - no section to be FIRST/LAST.
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2025-02-16 17:59:27]	[info] incremental build: 57 source files changed
+These source files will be recompiled
+---
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\app_freertos.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\main.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\stm32g4xx_hal_msp.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\stm32g4xx_hal_timebase_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\stm32g4xx_it.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\system_stm32g4xx.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Core\Src\usart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_adc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_cortex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_dma_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_flash_ramfunc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_gpio.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_pwr_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_rcc_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_spi_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_tim_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_uart_ex.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_ll_adc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\MDK-ARM\startup_stm32g431xx.s': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\croutine.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\list.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\queue.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\tasks.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Board\Middlewares\Third_Party\FreeRTOS\Source\timers.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\Communication\interface_uart.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\arm_cos_f32.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\arm_sin_f32.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\as5047p.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\drive_main.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\drv8323.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\encoder.c': source file has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\error.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\foc.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\motor.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\open_loop_controller.c': compiler options has been changed.
+'d:\MCU\STM\Project\NanoDrive\NanoDrive\MotorControl\utils.c': compiler options has been changed.
+
+[2025-02-16 17:59:30]	[done]
+	build successfully !
+
