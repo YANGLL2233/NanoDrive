@@ -24,7 +24,10 @@ void usart_printf(const char *format, ...)
     va_start(args, format);
     int32_t count = vsnprintf(buffer, sizeof(buffer), format, args);
     va_end(args);
-    if (count > 0 && count < TX_BUFFER_LEN) { HAL_UART_Transmit_DMA(&huart3, (uint8_t *)buffer, count); }
+    if (count > 0 && count < TX_BUFFER_LEN) {
+        //
+        HAL_UART_Transmit_DMA(&huart3, (uint8_t *)buffer, count);
+    }
 }
 
 void usart_intrface_init(void)
@@ -38,6 +41,8 @@ void uart_data_handle(void)
     switch (rx_buffer[0]) {
         case 'A': {
             drv8323_enable();
+            open_loop_controller.target_vel_     = 62.8f;
+            open_loop_controller.target_voltage_ = 0.5f;
             break;
         }
         case 'C': {
@@ -71,7 +76,12 @@ void uart_data_handle(void)
 void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
 {
     if (huart->Instance == USART3) {
-        if (Size <= RX_BUFFER_LEN) { uart_data_handle(); }
+        if (Size <= RX_BUFFER_LEN) {
+            //
+            uart_data_handle();
+            memset(rx_buffer, 0, Size);
+        }
+
         HAL_UARTEx_ReceiveToIdle_DMA(huart, rx_buffer, RX_BUFFER_LEN);
         __HAL_DMA_DISABLE_IT(&hdma_usart3_rx, DMA_IT_HT);
     }

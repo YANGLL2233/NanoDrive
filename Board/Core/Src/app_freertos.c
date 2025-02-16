@@ -205,7 +205,7 @@ void start_info_task(void const *argument)
     /* USER CODE BEGIN start_info_task */
     /* Infinite loop */
     for (;;) {
-        usart_printf("CCR:%d, %.3f, %d, %d, %d, %f, %f, %f, %f, %f, %f, %f\n", all_error, vbus_voltage, TIM1->CCR1,
+        usart_printf("CCR:%d, %.3f, %d, %d, %d, %f, %f, %f, %f, %f, %f, %f \n", all_error, vbus_voltage, TIM1->CCR1,
                      TIM1->CCR2, TIM1->CCR3, current_meas_.phA, current_meas_.phB, current_meas_.phC, phase_,
                      phase_vel_, pos_estimate_, vel_estimate_);
         osDelay(1);

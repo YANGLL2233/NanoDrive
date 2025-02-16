@@ -31,7 +31,8 @@
     "libDirs": [],
     "defines": [
         "USE_HAL_DRIVER",
-        "STM32G431xx"
+        "STM32G431xx",
+        "FPU_FPV4"
     ],
     "sourceList": [
         "Board/Core/Src/adc.c",
@@ -104,7 +105,7 @@
             }
         ],
         "global": {
-            "use-microLIB": false,
+            "use-microLIB": true,
             "output-debug-info": "enable",
             "microcontroller-cpu": "cortex-m4-sp",
             "microcontroller-fpu": "cortex-m4-sp",
@@ -122,9 +123,6 @@
         "asm-compiler": {},
         "linker": {
             "output-format": "elf",
-            "xo-base": "",
-            "ro-base": "",
-            "rw-base": "",
             "link-scatter": [
                 "\"d:/MCU/STM/Project/NanoDrive/NanoDrive/build/NanoDrive/NanoDrive.sct\""
             ]

@@ -13,6 +13,23 @@
 #define two_by_sqrt3 1.15470053838f
 #define sqrt3_by_2   0.86602540378f
 
+static __inline int round_int(float x)
+{
+#ifdef __arm__
+
+    int res;
+    float res_f;
+    __asm
+    {
+        vcvtr.s32.f32 res_f, x
+        vmov res, res_f
+    }
+    return res;
+#else
+    return (int)nearbyint(x);
+#endif
+}
+
 // Wrap value to range.
 // With default rounding mode (round to nearest),
 // the result will be in range -y/2 to y/2

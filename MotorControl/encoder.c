@@ -214,8 +214,7 @@ bool encoder_update(void)
 
     // is ready
     if (is_ready_) {
-        phase_ = wrap_pm_pi(ph) * config_.direction;
-
+        phase_     = wrap_pm_pi(ph) * config_.direction;
         phase_vel_ = (2 * M_PI) * vel_estimate_ * motor_config_.pole_pairs * config_.direction;
     }
 
